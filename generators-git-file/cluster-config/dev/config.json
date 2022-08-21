@@ -1,0 +1,9 @@
+{
+    "cluster": {
+        "owner": "Davit",
+        "name": "local-cluster",
+        "address": "https://kubernetes.default.svc"
+    },
+    "namespace": "dev",
+    "namePrefix": "dev"
+}
