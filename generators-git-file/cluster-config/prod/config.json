@@ -5,5 +5,5 @@
         "address": "https://kubernetes.default.svc"
     },
     "namespace": "prod",
-    "namePrefix": "prod"
+    "namePrefix": "prod-"
 }
